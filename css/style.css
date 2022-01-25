@@ -1,0 +1,18 @@
+.btn-primary{
+    background-color:purple ;
+    border-color: ;
+}
+.jumbotron{
+    background-color: darkgrey;
+}
+.box{
+    text-align: center;
+}
+.box.glyphicon{
+    font-size: 40px;
+}
+.section-a{
+    background: rgb(111, 111, 230);
+   padding-bottom: 0px; 
+   margin:5px;
+}
